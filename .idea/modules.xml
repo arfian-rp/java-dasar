@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. HelloWorld/01. HelloWorld.iml" filepath="$PROJECT_DIR$/01. HelloWorld/01. HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. TipeData/02. TipeData.iml" filepath="$PROJECT_DIR$/02. TipeData/02. TipeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. KonversiTipeData/03. KonversiTipeData.iml" filepath="$PROJECT_DIR$/03. KonversiTipeData/03. KonversiTipeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. TipeDataChar/03. TipeDataChar.iml" filepath="$PROJECT_DIR$/03. TipeDataChar/03. TipeDataChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. TipeDataBoolean/04. TipeDataBoolean.iml" filepath="$PROJECT_DIR$/04. TipeDataBoolean/04. TipeDataBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. TipeDataString/05. TipeDataString.iml" filepath="$PROJECT_DIR$/05. TipeDataString/05. TipeDataString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. TipeDataStriung/05. TipeDataStriung.iml" filepath="$PROJECT_DIR$/05. TipeDataStriung/05. TipeDataStriung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. Variable/06. Variable.iml" filepath="$PROJECT_DIR$/06. Variable/06. Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. TipeDataBukanPrimitif/07. TipeDataBukanPrimitif.iml" filepath="$PROJECT_DIR$/07. TipeDataBukanPrimitif/07. TipeDataBukanPrimitif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. TDArray/08. TDArray.iml" filepath="$PROJECT_DIR$/08. TDArray/08. TDArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. TipeDataArray/08. TipeDataArray.iml" filepath="$PROJECT_DIR$/08. TipeDataArray/08. TipeDataArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. OperasiMath/09. OperasiMath.iml" filepath="$PROJECT_DIR$/09. OperasiMath/09. OperasiMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. OperasiPerbandingan/10. OperasiPerbandingan.iml" filepath="$PROJECT_DIR$/10. OperasiPerbandingan/10. OperasiPerbandingan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. OperasiBoolean/11. OperasiBoolean.iml" filepath="$PROJECT_DIR$/11. OperasiBoolean/11. OperasiBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. Expression Statement dan Block/12. Expression Statement dan Block.iml" filepath="$PROJECT_DIR$/12. Expression Statement dan Block/12. Expression Statement dan Block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. IFStatement/13. IFStatement.iml" filepath="$PROJECT_DIR$/13. IFStatement/13. IFStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. SWITCHStatement/14. SWITCHStatement.iml" filepath="$PROJECT_DIR$/14. SWITCHStatement/14. SWITCHStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. TernaryOperator/15. TernaryOperator.iml" filepath="$PROJECT_DIR$/15. TernaryOperator/15. TernaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16. ForLoop/16. ForLoop.iml" filepath="$PROJECT_DIR$/16. ForLoop/16. ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. WhileLoop/17. WhileLoop.iml" filepath="$PROJECT_DIR$/17. WhileLoop/17. WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18. DoWhileLoop/18. DoWhileLoop.iml" filepath="$PROJECT_DIR$/18. DoWhileLoop/18. DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19. BreakDanContinue/19. BreakDanContinue.iml" filepath="$PROJECT_DIR$/19. BreakDanContinue/19. BreakDanContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20. ForEach/20. ForEach.iml" filepath="$PROJECT_DIR$/20. ForEach/20. ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21. Method/21. Method.iml" filepath="$PROJECT_DIR$/21. Method/21. Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21. MethodParams/21. MethodParams.iml" filepath="$PROJECT_DIR$/21. MethodParams/21. MethodParams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22. MethodParameter/22. MethodParameter.iml" filepath="$PROJECT_DIR$/22. MethodParameter/22. MethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23. MethodReturn/23. MethodReturn.iml" filepath="$PROJECT_DIR$/23. MethodReturn/23. MethodReturn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24. MethodVariableArgument/24. MethodVariableArgument.iml" filepath="$PROJECT_DIR$/24. MethodVariableArgument/24. MethodVariableArgument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25. MethodOverloading/25. MethodOverloading.iml" filepath="$PROJECT_DIR$/25. MethodOverloading/25. MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26. RecursiveMethod/26. RecursiveMethod.iml" filepath="$PROJECT_DIR$/26. RecursiveMethod/26. RecursiveMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/belajarDasarJava.iml" filepath="$PROJECT_DIR$/.idea/belajarDasarJava.iml" />
+    </modules>
+  </component>
+</project>
